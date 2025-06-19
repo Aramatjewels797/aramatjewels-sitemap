@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://aramatjewels.com/products/product-naam-1</loc>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/afbeelding-1.jpg</image:loc>
+      <image:title>Stalen Oorbellen Vlinder</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://aramatjewels.com/products/product-naam-2</loc>
+    <image:image>
+      <image:loc>https://cdn.shopify.com/s/files/afbeelding-2.jpg</image:loc>
+      <image:title>Zilveren Ketting Hartje</image:title>
+    </image:image>
+  </url>
+
+  <!-- Voeg op dezelfde manier meerdere producten en afbeeldingen toe -->
+
+</urlset>
